@@ -1,0 +1,13 @@
+Nome do Aluno: Tiago
+Media Disciplina 1: 10,00
+Media Disciplina 2: 10,00
+Media Geral: 10,00
+Classificacao: Primeiro Lugar
+
+Nome do Aluno: Lucas
+Media Disciplina 1: 5,00
+Media Disciplina 2: 4,00
+Media Geral: 4,50
+Classificacao: Posicao 2
+
+Media Geral da Turma: 7,25

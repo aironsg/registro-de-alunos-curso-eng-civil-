@@ -1,0 +1,3 @@
+C:/Users/airon/CLionProjects/mediaAluno/cmake-build-debug/CMakeFiles/mediaAluno.dir
+C:/Users/airon/CLionProjects/mediaAluno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/airon/CLionProjects/mediaAluno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
